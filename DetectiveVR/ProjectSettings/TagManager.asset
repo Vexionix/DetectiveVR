@@ -3,12 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - roadblock
+  - Collidable
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Collidable
   - Water
   - UI
   - 
