@@ -17,7 +17,7 @@ public class CutsceneTrigger : MonoBehaviour
     public Camera mainCamera;
     public Camera cutsceneCamera;
     public float delayBeforeCutscene = 5f;
-    public float cutsceneDuration = 10f;
+    public float cutsceneDuration = 26f;
 
     [Header("Video Settings")]
     public VideoPlayer cutsceneVideoPlayer;
